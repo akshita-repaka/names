@@ -4,6 +4,12 @@
 	margin-bottom: 20px; 
 }
 
+#sort_button
+{
+	display: none;
+	margin-top: 20 px;
+	margin-bottom: 20 px;
+}
 input
 {
 	margin: 10px;
